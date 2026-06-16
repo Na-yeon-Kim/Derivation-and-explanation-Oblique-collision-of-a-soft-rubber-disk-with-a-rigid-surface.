@@ -19,6 +19,6 @@ This project aims to:
 ├── report.tex        # LaTeX source code containing the full derivation and report
 ├── report.pdf        # Compiled publication-quality project report
 ├── result.xlsx       # Experimental data and numerical analysis of the collisions
-├── image.png         # Main diagram/schematic illustrating the collision model
+├── image.png         # Screenshot of the Tracker analysis interface (For quick preview)
 ├── video1~4.mp4      # High-speed footage of the soft rubber disk experiments
 └── video1~4.trk      # Tracker software project files mapping the coordinates and velocities
